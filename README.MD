@@ -19,7 +19,9 @@ Para poder ejecutar el proyecto correctamente, asegúrate de tener:
 - **Python** (recomendado: versión 3.8 o superior).
 - **Poetry** para la gestión de dependencias y del entorno virtual. Puedes instalar Poetry siguiendo las instrucciones en su [documentación oficial](https://python-poetry.org/docs/).
 
-## Configuración del Entorno
+## Configuración del Entorno 
+
+Por favor seguir las siguientes indiciaciones y clonar el repositorio, debido a que solo de esta manera se podran observar todas las visualizaciones necesarias en el análisis.
 
 Para configurar el entorno en tu máquina y ejecutar el proyecto, sigue estos pasos:
 
