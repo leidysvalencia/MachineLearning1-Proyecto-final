@@ -27,5 +27,5 @@ Para configurar el entorno en tu máquina y ejecutar el proyecto, sigue estos pa
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone <https://github.com/leidysvalencia/MachineLearning1.git>
+   git clone <https://github.com/leidysvalencia/MachineLearning1-Proyecto-final.git>
    cd MachineLearning1/Proyecto3
